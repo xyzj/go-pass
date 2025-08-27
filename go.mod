@@ -1,4 +1,4 @@
-module github.com/xyzj/gopass
+module github.com/xyzj/go-pass
 
 go 1.25.0
 
